@@ -18,3 +18,4 @@ echo "=== Hasil Array 1 Dimensi ===\n";
 echo "A + B = {" . implode(", ", $jumlah1D) . "}\n";
 echo "A - B = {" . implode(", ", $kurang1D) . "}\n\n";
 ?>
+//  Kelas king anjay wokkkk
